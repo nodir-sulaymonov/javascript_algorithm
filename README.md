@@ -1,1 +1,1 @@
-# js_algorithm_challenges
+# javascript_algorithm
